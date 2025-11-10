@@ -1,8 +1,6 @@
 # COMP472-Project
 This repository contains the implementation of 4 machine learning models: Naive Bayes, decision tree, multi-layer perceptron (MLP), and convolutional neural network (CNN).
 
-[Link to Word document](https://liveconcordia-my.sharepoint.com/:w:/g/personal/la_gom_live_concordia_ca/EdM2jboVaslMnpiD6jD_kzkBh2yibHCb6-okKuSfZbeFDA) (read access only, unless shared directly with email)
-
 |Name|Student ID|
 |:--:|:--------:|
 |||
