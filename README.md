@@ -6,6 +6,8 @@ This repository contains the implementation of 4 machine learning models: Naive 
 |||
 |||
 |Laurenz Gomez|40247966|
+|Oren Argot|40224072|
+|Seungjoon Lee|40106614|
 
 ## Project Description
 In this project, your task is to perform image classification on the CIFAR-10 dataset using some of the AI models learned in this class.
